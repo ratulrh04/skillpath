@@ -120,9 +120,18 @@ src/
 **Ratul Raha**
 Computer Science student at Northern University Business and Technology Khulna, learning to become a full-stack developer.
 
+<<<<<<< HEAD
 - GitHub Link : [https://github.com/ratulrh04]
 - AI-powered learning roadmap and progress tracker project link : [https://github.com/ratulrh04/skillpath]
 
 ## License
 
 This project is licensed under the MIT License.
+=======
+- GitHub link :[https://github.com/ratulrh04]
+AI-powered learning roadmap and progress tracker repo link : [https://github.com/ratulrh04/skillpath.git]
+
+## License
+
+This project is licensed under the MIT License.
+>>>>>>> c143808 (feat: add navbar and goals page with typed mock data)
