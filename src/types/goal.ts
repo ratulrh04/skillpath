@@ -3,5 +3,5 @@ export interface Goal {
     title : string;
     dailyHours : number;
     durationWeeks : number;
-    status : "active" | "completed" | "paused";
+    status : "active" | "completed" | "paused" ;
 }
